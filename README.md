@@ -2,6 +2,9 @@
 
 Conditional Generative Adversarial Network (cGAN) that creates artworks
 
+<img src="/plots/cGAN_architecture_transp.png"/>
+
+
 ### Results 
 
 <p float="left">
