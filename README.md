@@ -1,6 +1,6 @@
 # art-with-GAN
 
-Conditional Generative Adversarial Network (cGAN) that creates artworks
+Conditional Deep Convolutional Generative Adversarial Network (CDCGAN) that creates artworks
 
 <img src="/plots/cGAN_architecture_transp.png"/>
 
